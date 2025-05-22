@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...Next.js.
-- 🌱 I’m currently learning ...Next.js.	🤪
+- 🌱 I’m currently learning ...Next.js.	
 - 👯 I’m looking to collaborate on ...some cool company.
 - 🤔 I’m looking for help with ...need a internship or a good job.😋
 - 💬 Ask me about ...technology.
